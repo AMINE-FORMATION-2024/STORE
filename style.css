@@ -1,0 +1,28 @@
+.nav-container2{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(70, 70, 109);
+    color: rgb(45, 71, 94);
+}
+.GH{
+background-image: url("Alpha-slider2.png");
+height: 400px;
+background-size: cover;
+display: flex;
+flex-direction: row;
+
+}
+.AH{
+    width: 15%;
+}
+.row h1{
+    text-align: center;
+    align-items: center;
+    color: aliceblue;
+}
+.VX{
+    height: 100px;
+}
+.nav-link{
+    color: aliceblue;
+}
